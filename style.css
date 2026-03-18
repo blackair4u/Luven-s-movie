@@ -135,7 +135,7 @@ background: url(/images/baground2.png) ;
 
 .movie-items {
     list-style: none;
-    display: flex;
+    display: flex; 
     /* gap: 7rem; */
     justify-content: center;
 }
